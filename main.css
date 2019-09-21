@@ -1,0 +1,65 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Manjari', sans-serif;
+  font-size: 24px;
+}
+
+#header {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  height: 40px;
+  background-color: #EED;
+}
+
+#logo {
+  padding: 0px;
+  margin: 0px;
+  float: left;
+  height: 40px;
+}
+
+#logo_img {
+    padding: 0px;
+    margin: 0px;
+    width: 40px;
+}
+
+.navlink {
+  padding: 0px;
+  margin: 0px;
+  float: right;
+  height: 40px;
+  width: 160px;
+  line-height: 46px;
+  text-align: center;
+}
+
+.navlink:hover {
+  background-color: #BBA;
+  cursor: pointer;
+}
+
+#title {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  text-align: center;
+  height: 300px;
+  font-size: 180px;
+  line-height: 300px;
+  color: #d15c1d;
+}
+
+#title_img {
+    margin-top: 50px;
+    width: 600px;
+}
+
+#desc {
+  padding: 0px;
+  margin: 0px;
+  width: 80%;
+  margin: 0 auto;
+}

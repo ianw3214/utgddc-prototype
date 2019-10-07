@@ -5,6 +5,11 @@ body {
   font-size: 24px;
 }
 
+a {
+  color: #222;
+  text-decoration: none;
+}
+
 #header {
   padding: 0px;
   margin: 0px;
@@ -16,6 +21,7 @@ body {
 #logo {
   padding: 0px;
   margin: 0px;
+  margin-left: 10%;
   float: left;
   height: 40px;
 }
@@ -23,7 +29,7 @@ body {
 #logo_img {
     padding: 0px;
     margin: 0px;
-    width: 40px;
+    width: 160px;
 }
 
 .navlink {
@@ -41,13 +47,13 @@ body {
   cursor: pointer;
 }
 
-#title {
+#title, #gmd-title, #jams-title {
   padding: 0px;
   margin: 0px;
   width: 100%;
   text-align: center;
   height: 300px;
-  font-size: 180px;
+  font-size: 120px;
   line-height: 300px;
   color: #d15c1d;
 }
@@ -62,4 +68,13 @@ body {
   margin: 0px;
   width: 80%;
   margin: 0 auto;
+}
+
+.text-link {
+  text-decoration: underline;
+  color: #77E;
+}
+
+.text-link:hover {
+  color: #44A;
 }

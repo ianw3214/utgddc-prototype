@@ -7,3 +7,4 @@
 - [ ] Easily editable markdowns
 - [ ] Make links more visible on contact page
 - [x] Add checkboxes to checklist
+- [ ] Add a footer

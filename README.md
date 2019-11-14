@@ -1,7 +1,7 @@
 # CHECKLIST
 
 - [ ] Don't refresh whole page when clicking buttons
-- [ ] Design top-left logo better (it looks ugly right now)
+- [x] ~Design top-left logo better (it looks ugly right now)~
 - [ ] Display past GMD pages on GMD page
 - [ ] Display games made by club members in front page
 - [ ] Easily editable markdowns
